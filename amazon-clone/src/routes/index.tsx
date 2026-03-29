@@ -133,7 +133,7 @@ function HomePage() {
           ))}
         </div>
         <div className="border-t border-gray-700 py-4 text-center text-xs text-gray-400">
-          © 2024 Amazon Clone — Built with TanStack Start + Netlify
+          © 2026 Amazon Clone made by Bratish
         </div>
       </footer>
     </div>
