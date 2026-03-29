@@ -68,8 +68,6 @@ git clone https://github.com/your-username/amazon-clone.git
 cd amazon-clone
 ```
 
----
-
 ### 2. Setup Backend
 
 ```bash
@@ -93,8 +91,6 @@ Run backend:
 npm start
 ```
 
----
-
 ### 3. Setup Frontend
 
 ```bash
@@ -103,35 +99,17 @@ npm install
 npm start
 ```
 
----
-
 ### 4. Database Setup
 
 * Create database (PostgreSQL/MySQL)
 * Run schema scripts
 * Seed sample product data
 
----
-
-## 🌐 Deployment
-
-* Frontend: Vercel / Netlify
-* Backend: Render / Railway / AWS
-
-👉 *(Add your deployed links here)*
-
-* Live App: `https://your-live-link.com`
-* Backend API: `https://your-api-link.com`
-
----
-
 ## 🧠 Assumptions
 
 * A default user is assumed to be logged in (no authentication required)
 * Sample product data is pre-seeded
 * Focus is on functionality and UI rather than production-level security
-
----
 
 ## 📊 Evaluation Focus
 
@@ -141,19 +119,13 @@ npm start
 * Database design and relationships
 * Ability to explain implementation
 
----
-
 ## 🤖 AI Tools Usage
 
 AI tools like ChatGPT, Claude, and GitHub Copilot were used to assist development. All code written is fully understood and can be explained.
 
----
-
 ## 📸 Screenshots (Optional)
 
-*Add screenshots of your UI here*
-
----
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41c16393-a431-4d50-b85b-4dcd3723e407" />
 
 ## 📌 Future Improvements
 
@@ -162,17 +134,9 @@ AI tools like ChatGPT, Claude, and GitHub Copilot were used to assist developmen
 * Recommendation system
 * Real-time order tracking
 
----
-
 ## 🙌 Acknowledgements
 
 * Inspired by Amazon UI/UX
 * Built as part of Scaler SDE Internship Assignment
-
----
-
-If you want, I can also:
-
-* Customize this README for **your exact tech stack (Spring Boot + React)**
 * Add **badges, GIFs, and screenshots sections**
 * Make it look **top-tier for recruiters 🔥**
