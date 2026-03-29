@@ -123,7 +123,7 @@ npm start
 
 AI tools like ChatGPT, Claude, and GitHub Copilot were used to assist development. All code written is fully understood and can be explained.
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41c16393-a431-4d50-b85b-4dcd3723e407" />
 
