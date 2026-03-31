@@ -138,5 +138,3 @@ AI tools like ChatGPT, Claude, and GitHub Copilot were used to assist developmen
 
 * Inspired by Amazon UI/UX
 * Built as part of Scaler SDE Internship Assignment
-* Add **badges, GIFs, and screenshots sections**
-* Make it look **top-tier for recruiters 🔥**
